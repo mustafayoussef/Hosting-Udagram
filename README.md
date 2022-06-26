@@ -20,6 +20,12 @@ This application is provided to you as an alternative starter project if you do 
 
 http://mustafa-udagram.s3-website-us-east-1.amazonaws.com/ 
 
+## Usage
+
+You can Install this project to your PC using clone the repo to your github account then Download It as a ZIP File to your PC.
+
+or Clone it using GIT `git clone` if you access it from GITHUB.
+
 ### Dependencies
 
 ```

@@ -6,4 +6,14 @@
 ![Pipeline Architecture](https://media.discordapp.net/attachments/897079710918516767/975253014606643210/Pipeline_Architecture.jpg?width=625&height=468)
 
 
+## The config file has the following flows
 
+- Frontend
+    - Install
+    - Build
+    - Deploy
+- Backend
+    - Install aws elastic beanstalk
+    - Install
+    - Build
+    - Deploy
